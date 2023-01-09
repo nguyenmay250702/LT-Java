@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.security.MessageDigest"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalAccessException"/>
+    <fullyQualifiedTypeName name="Lab06.MyTime"/>
+    <fullyQualifiedTypeName name="Lab06.MyDate"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="Lab08.Circle"/>
+    <fullyQualifiedTypeName name="Lab08.Cylinder"/>
+    <fullyQualifiedTypeName name="Lab09.Circle"/>
+    <fullyQualifiedTypeName name="Lab09.Shape"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="Lab09.Rectangle"/>
+    <fullyQualifiedTypeName name="aaa.movable"/>
+    <fullyQualifiedTypeName name="aaa.MovableCircle"/>
+    <fullyQualifiedTypeName name="aaa.MovablePoint"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

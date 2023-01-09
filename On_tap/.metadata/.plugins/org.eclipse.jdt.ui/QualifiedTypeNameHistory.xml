@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.net.ConnectException"/>
+    <fullyQualifiedTypeName name="QLCB.ICanbo"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="GSach.ISach"/>
+    <fullyQualifiedTypeName name="javax.naming.spi.DirStateFactory.Result"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.security.MessageDigest"/>
+    <fullyQualifiedTypeName name="GKH.XLKH"/>
+    <fullyQualifiedTypeName name="QLCB.ICanBo"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="QLCB.QLCB"/>
+    <fullyQualifiedTypeName name="GSach.Tailieu"/>
+    <fullyQualifiedTypeName name="GSach.XLSach"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="GLuong.Prerson"/>
+    <fullyQualifiedTypeName name="GLuong.Nhanvien"/>
+    <fullyQualifiedTypeName name="GLuong.XLLuong"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="javax.swing.table.DefaultTableModel"/>
+    <fullyQualifiedTypeName name="GTS.XLTS"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.nio.file.OpenOption"/>
+</qualifiedTypeNameHistroy>

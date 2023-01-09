@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+D:\LT_Java\Thuc Hanh\.metadata\.plugins\org.eclipse.jdt.core
+3830848087.index
+279868512.index
+2186899505.index
+408353314.index
+896021136.index
+3905619469.index
+3959137331.index
+1015972514.index
+516456625.index
+1865797976.index

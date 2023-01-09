@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\LT_Java\Thuc Hanh\On_tap\De4_DASach"/>
+			<item value="D:\LT_Java\Thuc Hanh\On_tap\DALuong"/>
+			<item value="C:\Users\May\Downloads\198_2051060660_NguyenThiHaPhuong_Ca3_8-1-2023"/>
+			<item value="D:\LT_Java\Thuc Hanh\On_tap\DASach"/>
+			<item value="D:\LT_Java\Thuc Hanh\On_tap\Exam2"/>
+			<item value="C:\Users\May\Downloads\Workshop4"/>
+			<item value="D:\LT_Java\Thuc Hanh\On_tap\Exam1"/>
+			<item value="D:\LT_Java\tham khao\De_java_2"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+</section>

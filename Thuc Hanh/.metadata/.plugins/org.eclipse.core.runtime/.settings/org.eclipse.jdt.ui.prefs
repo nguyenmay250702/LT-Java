@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Lab08.Circle"><rhs name\="Lab08.Cylinder"/></lhs><lhs name\="Lab08.Cylinder"><rhs name\="Lab08.Cylinder"/></lhs><lhs name\="Lab09.Shape"><rhs name\="Lab09.Rectangle"/></lhs><lhs name\="Lab09.Rectangle"><rhs name\="Lab09.Rectangle"/></lhs><lhs name\="aaa.movable"><rhs name\="aaa.MovableCircle"/><rhs name\="aaa.MovablePoint"/></lhs><lhs name\="aaa.MovableCircle"><rhs name\="aaa.MovableCircle"/></lhs><lhs name\="aaa.MovablePoint"><rhs name\="aaa.MovablePoint"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

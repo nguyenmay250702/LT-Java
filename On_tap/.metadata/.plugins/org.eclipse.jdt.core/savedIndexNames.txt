@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\LT_Java\Thuc Hanh\On_tap\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2777142040.index
+550678577.index
